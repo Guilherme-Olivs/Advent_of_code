@@ -62,7 +62,7 @@ numbers_last = {
 
 sum=0
 
-with open('input_1.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     
     for line in file:
         a=0
